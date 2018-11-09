@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/rubictron/.arduino15/packages/arduino/tools/**",
+                "/home/rubictron/.arduino15/packages/arduino/hardware/avr/1.6.21/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/home/rubictron/.arduino15/packages/arduino/hardware/avr/1.6.21/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
